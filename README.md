@@ -21,5 +21,11 @@ High-Fidelity Wireframes: More detailed and refined versions, often closer to th
 ## Wirefreming Tools
 There are several wireframing tools available, most of which use the same underlying concepts. Figma is a great tool.  Figma is browser-based, so sharing your wireframes is as easy as sharing a link. Your team can leave comments right on the file so you can easily get feedback and field questions.
 ## Benefits of Wireframing in Software Development.
-
-
+Clear visualization of ideas
+Improved communication
+Early feedback and validation
+Better focus on user experience (UX)
+Efficient iteration
+Requirement clarification
+Supports Agile and Lean methodologies
+Reduces development time and cost
