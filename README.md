@@ -29,3 +29,5 @@ Efficient iteration
 Requirement clarification
 Supports Agile and Lean methodologies
 Reduces development time and cost
+## Wireframing in Practice.
+A mid-sized bank planned to redesign its mobile banking application to improve user engagement and simplify core functionalities like fund transfers, account management, and bill payments. Before beginning development, the design team created wireframes for key screens and user flows.
